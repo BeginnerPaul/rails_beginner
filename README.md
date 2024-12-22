@@ -1,3 +1,3 @@
 # rails_beginner
 
-# mkdir beginner
+## mkdir beginner
